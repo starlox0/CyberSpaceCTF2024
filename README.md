@@ -1,1 +1,1 @@
-## CTF Script for Forensics
+## CTF Scripts for Forensics
